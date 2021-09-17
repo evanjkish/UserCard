@@ -1,0 +1,47 @@
+.usercard {
+    margin-left: 110px;
+    margin-top: 50px;
+    width: 800px;
+    height: 500px;
+    background-color: white;
+    border-style: solid;
+    border-color: gray;
+}
+
+.topteal {
+    height: 25%;
+    background-color:  rebeccapurple;
+}
+
+.content {
+    margin-left: 40px;
+    width: 55%;
+    display: flex;
+}
+
+.content img {
+    max-width: 150px;
+    height: 150px;
+    margin-top: -40px;
+}
+
+.flexbox {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+
+.flexbox img {
+    max-width: 20px;
+    max-height: 20px;
+    margin-top: initial;
+    margin-right: 5px;
+}
+#pin {
+    margin-top: 10px;
+}
+
+img {
+    border-radius: 50%;
+}
